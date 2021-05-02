@@ -1,1 +1,1 @@
-###Chakra knowledge chain (all 7)
+## Chakra knowledge chain (all 7)
