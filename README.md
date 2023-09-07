@@ -12,7 +12,7 @@ concept_start_with_Admirals:
   
   ##
   
-- (WAM - earth star chakra - 194Hz
+- (WAM - earth star chakra - 194Hz)
 - LAM - root chakra - 396Hz, 194Hz
 - VAM - sacral chakra - 417Hz
 - RAM- solar plexus chakra - 528Hz
