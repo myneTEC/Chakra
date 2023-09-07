@@ -20,4 +20,4 @@ concept_start_with_Admirals:
 - HAM - throat chakra - 741Hz
 - OM - third eye chakra - 852Hz
 - OUM - crown chakra - 852Hz, 963Hz
-- KAM - soul star chakra - 963Hz)
+- (KAM - soul star chakra - 963Hz)
